@@ -1,4 +1,9 @@
 # leadership-skills
+
+```
+establish trust and credibility with your team, peers, and stakeholders. Trust is the foundation of any effective relationship, and credibility is the result of your actions and words. To build trust and credibility, be honest, respectful, consistent, and reliable. Show empathy, listen actively, and give constructive feedback
+```
+
 ```
 1. Leadership is not all about you
 
