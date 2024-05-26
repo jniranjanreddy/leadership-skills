@@ -11,9 +11,13 @@ To build trust and credibility, be honest, respectful, consistent, and reliable.
 
  
 
-The principal role of a leader is to enable and empower a team to achieve both collective and individual goals. It can involve delegation, instruction and training, but at the heart of it all is a desire to serve. Effective leaders align with Servant Leadership principles that focus on developing teams. These principles span from in-depth personal development programs to the simplicity of understanding how your team members like to be rewarded. Servant Leadership is less about handing over authority and more about empowering others to succeed.
+The principal role of a leader is to enable and empower a team to achieve both collective and individual goals. It can involve delegation, instruction and training,
+but at the heart of it all is a desire to serve. Effective leaders align with Servant Leadership principles that focus on developing teams.
+These principles span from in-depth personal development programs to the simplicity of understanding how your team members like to be rewarded.
+ Servant Leadership is less about handing over authority and more about empowering others to succeed.
 
-Dr Andrea North-Samardzic is the Course Director of Deakin University’s Master of Leadership. While she recommends the qualities of Servant Leadership, Dr North-Samardzic warns against locking yourself into any one style of leadership.
+Dr Andrea North-Samardzic is the Course Director of Deakin University’s Master of Leadership. While she recommends the qualities of Servant Leadership,
+ Dr North-Samardzic warns against locking yourself into any one style of leadership.
 
 
 
@@ -22,18 +26,23 @@ Dr Andrea North-Samardzic is the Course Director of Deakin University’s Master
 Being able to be flexible and adaptive is increasingly needed rather than simply putting a badge on yourself because sometimes you need to be a manager more than a leader.
 “A good leader is a person who knows when to turn it on and when to turn it off,” declares Dr North-Samardzic.
 
-If you are embracing your servant leader side, it’s essential to seek feedback from your team. Honest feedback can be a frightening process – many leaders don’t ask because they don’t want to know the answer! But it’s the issues raised when asking for feedback from the team that provides a roadmap for successful leadership. Resolve these issues, and you will have more engaged staff who feel that their contribution is valued.
+If you are embracing your servant leader side, it’s essential to seek feedback from your team. Honest feedback can be a frightening process –
+ many leaders don’t ask because they don’t want to know the answer! But it’s the issues raised when asking for feedback from the team that provides a roadmap for successful leadership. Resolve these issues, and you will have more engaged staff who feel that their contribution is valued.
 
  
 
 2. Honesty, Integrity and Humility
 
 
-Integrity and honesty are critical characteristics of a good leader, and both appear to be critically lacking. In a US survey, half of all employees reported that their bosses are liars who take credit for anything good that happens. These leaders didn’t give credit where it was due, failed in keeping promises, and blamed others as a way to cover up their mistakes. As a result, workers weren’t satisfied with their jobs, were less likely to take on additional tasks and more likely to leave.
+Integrity and honesty are critical characteristics of a good leader, and both appear to be critically lacking. In a US survey, half of all employees reported that their bosses are liars
+who take credit for anything good that happens. These leaders didn’t give credit where it was due, failed in keeping promises, and blamed others as a way to cover up their mistakes. As a result, workers weren’t satisfied with their jobs, were less likely to take on additional tasks and more likely to leave.
 
-Would you consider a sports referee to be a leader? They have authority, they help teams achieve an outcome (whether it’s a positive or negative outcome depends on which team you support!), and they are nothing without integrity and honesty. Referees and umpires are also experts in humility – the quality of being humble. NRL referees have adopted core values and behaviours that include identifying strengths and weaknesses, working towards self-improvement and acknowledging that no individual is more important than the group.
+Would you consider a sports referee to be a leader? They have authority, they help teams achieve an outcome (whether it’s a positive or negative outcome depends on which team you support!),
+and they are nothing without integrity and honesty. Referees and umpires are also experts in humility – the quality of being humble. NRL referees have adopted core values and behaviours
+ that include identifying strengths and weaknesses, working towards self-improvement and acknowledging that no individual is more important than the group.
 
-While referees display many qualities of a leader, they lack two key elements of positive leadership – compassion and empathy. Referees need to make cold hard decisions and can’t afford to take into account the personal feelings of players. A successful team leader, on the other hand, can achieve better outcomes by approaching conflict with compassion and empathy. Compassion is defined as the motivation to help others with their physical, mental or emotional pains, while empathy is the ability to recognise the emotions of another.
+While referees display many qualities of a leader, they lack two key elements of positive leadership – compassion and empathy. Referees need to make cold hard decisions and can’t afford to
+ take into account the personal feelings of players. A successful team leader, on the other hand, can achieve better outcomes by approaching conflict with compassion and empathy. Compassion is defined as the motivation to help others with their physical, mental or emotional pains, while empathy is the ability to recognise the emotions of another.
 
 In short, if you are aware of how someone in your team is feeling, and you use that awareness to help them, you are leading with compassion and empathy. It’s been shown that even if you experience a passing feeling of empathy for a team member, that can be enough to break your focus on our own emotions. Use this moment to focus your attention on that team-member and help them achieve a shared goal.
 
@@ -42,11 +51,14 @@ In short, if you are aware of how someone in your team is feeling, and you use t
 3. Hold your team (and yourself) accountable
 
 
-Away from the sports field, coaching is a critical skill in leadership that gives you the ability to hold your team (and yourself) accountable without shaming anybody. Using methods like the GROW model you can work with an individual or a team to give them ownership of a goal while making sure you’re all aware of the current realities and obstacles. However, the most important step is to look at the way forward where you must ask the person you’re coaching – how committed are you? Knowing that answer in advance will make accountability easier to achieve.
+Away from the sports field, coaching is a critical skill in leadership that gives you the ability to hold your team (and yourself) accountable without shaming anybody. Using methods like
+the GROW model you can work with an individual or a team to give them ownership of a goal while making sure you’re all aware of the current realities and obstacles. However, the most important step is to look at the way forward where you must ask the person you’re coaching – how committed are you? Knowing that answer in advance will make accountability easier to achieve.
+
 
 Dr Andrea North-Samardzic points out that, in addition to their team, successful leaders also hold themselves accountable as a key leadership quality.
 
-“For effective leadership, you have to engage in self-reflection. If you can self-diagnose what your weaknesses are, what your challenges are before someone else tells you then you're in an amazing position.”
+“For effective leadership, you have to engage in self-reflection. If you can self-diagnose what your weaknesses are, what your challenges are before someone else tells you then you're in
+an amazing position.”
 
 According to Dr North-Samardzic, the need for self-reflection in Australian corporate leadership has been revealed during the parliamentary review of the four major banks.
 
